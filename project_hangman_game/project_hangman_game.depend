@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1514258637 source:c:\users\kamran\desktop\oop lab\oop lab\project game\project_hangman_game\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<stdlib.h>
+
+1514317721 source:c:\users\kamran\desktop\project game\project_hangman_game\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514308491 source:d:\personal\scaned docs\kamran\kam\file.exe\e.exe\new.exe\folders new.exe\project game\project_hangman_game\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1547289834 source:d:\university\3rd  semester cse\oop_labs\oop_project game\project_hangman_game\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
